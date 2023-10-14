@@ -7,7 +7,10 @@ Please check out our paper on the same to read more of our findings:
 (To Be Out Soon)
 
 For further information contact:
+
 Pranav Narayanan Venkit (pranav.venkit@psu.edu)
+
 Mukund Srinath (mukund@psu.edu)
+
 Dr. Shomir Wilson (shomir@psu.edu)
 
