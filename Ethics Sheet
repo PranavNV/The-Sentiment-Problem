@@ -1,27 +1,27 @@
-# Ethics Sheet
-<br>
-Q1: What is the framework and definition of sentiment utilized? [R2]<br>
+Ethics Sheet
 
-Q2: What framework is employed for sentiment analysis in the measurement of sentiment? [R2]<br>
+Q1: What is the framework and definition of sentiment utilized? [R2]
 
-Q3: Will this study be made available for public use in measuring sentiment in NLP? [R2]<br>
+Q2: What framework is employed for sentiment analysis in the measurement of sentiment? [R2]
 
-  Q3.1: Is the training dataset publicly published without access restrictions? [R2]<br>
+Q3: Will this study be made available for public use in measuring sentiment in NLP? [R2]
 
-  Q3.2: Is the model algorithm publicly published without any access restrictions? [R2]<br>
+  Q3.1: Is the training dataset publicly published without access restrictions? [R2]
 
-Q4: Is this system primarily designed for users outside the field of NLP? [R1+R4]<br>
+  Q3.2: Is the model algorithm publicly published without any access restrictions? [R2]
 
-Q5: Could you explicitly mention the specific use cases this system is intended for? [R1+R4]<br>
+Q4: Is this system primarily designed for users outside the field of NLP? [R1+R4]
 
-Q6: Can you provide a comprehensive list of all users and user profiles intended to utilize the system? [R1+R4]<br>
+Q5: Could you explicitly mention the specific use cases this system is intended for? [R1+R4]
 
-Q7: Were tests conducted to identify explicit and implicit biases in sentiment analysis models, specifically examining the various sociodemographic biases that may be exhibited? If yes, please provide details. [R3]<br>
+Q6: Can you provide a comprehensive list of all users and user profiles intended to utilize the system? [R1+R4]
 
-Q8: Were experts from interdisciplinary fields involved in discussing the use and metrics of sentiment analysis models as social applications? If so, please specify them explicitly. [R3]<br>
+Q7: Were tests conducted to identify explicit and implicit biases in sentiment analysis models, specifically examining the various sociodemographic biases that may be exhibited? If yes, please provide details. [R3]
 
-Q9: Did the study consider the potential cultural or contextual variations in sentiment interpretation? If so, how were they addressed? [R3]<br>
+Q8: Were experts from interdisciplinary fields involved in discussing the use and metrics of sentiment analysis models as social applications? If so, please specify them explicitly. [R3]
+
+Q9: Did the study consider the potential cultural or contextual variations in sentiment interpretation? If so, how were they addressed? [R3]
 
 Q10: Were there any measures implemented to mitigate potential biases in the model? If yes, please explain the approach taken. [R3]
-<br>
+
 These contextually structured questions aid in uncovering underlying assumptions embedded in framing the task of creating a SA model. Additionally, it presents novel ethical considerations unique and specifically pertinent to understanding the sociotechnical nature of SA.
